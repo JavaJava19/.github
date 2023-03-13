@@ -4,5 +4,5 @@
 # 開発標準
 - Maven管理
 # パッケージ標準命名
-- ``net.japanpvpserver.<pluginName>``
+- ``gg.jps.<pluginName>``
 - ``com.github.javajava19.<pluginName>``
